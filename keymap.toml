@@ -1,0 +1,15 @@
+[[keymaps]]
+command = "SelectNextOrScrollDown"
+key_sequence = "M-j"
+
+[[keymaps]]
+command = "SelectPreviousOrScrollUp"
+key_sequence = "M-k"
+
+[[keymaps]]
+command = "None"
+key_sequence = "q"
+
+[[keymaps]]
+command = "Quit"
+key_sequence = "C-w"
