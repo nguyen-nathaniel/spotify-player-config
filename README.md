@@ -8,12 +8,10 @@ This repository contains layout preferences, styling options, and custom shortcu
 
 The configuration files belong in your local configuration directory, which defaults to:
 
-- **Linux/macOS:** `~/.config/spotify-player/`
-- **Windows:** `%APPDATA%\spotify-player\`
+- **Linux/macOS/Windows:** `~/.config/spotify-player/`
 
 ```text
 ~/.config/spotify-player/
 ├── app.toml          # Main application settings & layout definitions
 └── theme.toml        # UI styling, components, and color palettes
 ```
-
